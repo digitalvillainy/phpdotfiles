@@ -18,6 +18,7 @@ return {
       "phpstan",
       "pint",
       "html-lsp",
+      "yaml-language-server",
     },
   },
 }
