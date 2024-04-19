@@ -15,6 +15,7 @@ return {
       "tailwindcss-language-server",
       "typescript-language-server",
       "pyright",
+      "phpstan",
       "pint",
       "html-lsp",
     },
