@@ -17,6 +17,7 @@ return {
       "pyright",
       "pint",
       "html-lsp",
+      "yaml-language-server",
     },
   },
 }
