@@ -17,6 +17,7 @@ return {
       "pyright",
       "phpstan",
       "pint",
+      "pretty-php",
       "html-lsp",
       "yaml-language-server",
     },
