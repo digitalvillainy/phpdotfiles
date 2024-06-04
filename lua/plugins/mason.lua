@@ -16,7 +16,6 @@ return {
       "typescript-language-server",
       "pyright",
       "pint",
-      "pretty-php",
       "html-lsp",
       "yaml-language-server",
       "twiggy-language-server",
