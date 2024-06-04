@@ -19,6 +19,8 @@ return {
       "pretty-php",
       "html-lsp",
       "yaml-language-server",
+      "twiggy-language-server",
+      "twigcs",
     },
   },
 }
